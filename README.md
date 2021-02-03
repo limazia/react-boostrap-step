@@ -2,7 +2,7 @@
  
 ## Exemplo
 
-![](https://i.imgur.com/v1HVYME.png | width=100))
+![](https://i.imgur.com/v1HVYME.png | width=100)
 ![](https://i.imgur.com/eNIagam.png =250x250)
 ![](https://i.imgur.com/XWBBHVX.png =250x250)
 ![](https://i.imgur.com/JIJVacf.png =250x250)
