@@ -2,10 +2,10 @@
  
 ## Exemplo
 
-![](https://i.imgur.com/v1HVYME.png)
-![](https://i.imgur.com/eNIagam.png)
-![](https://i.imgur.com/XWBBHVX.png)
-![](https://i.imgur.com/JIJVacf.png)
+![](https://i.imgur.com/v1HVYME.png =250x250)
+![](https://i.imgur.com/eNIagam.png =250x250)
+![](https://i.imgur.com/XWBBHVX.png =250x250)
+![](https://i.imgur.com/JIJVacf.png =250x250)
 
 ## Instalação
 
