@@ -1,0 +1,57 @@
+.order-card {
+  border: 0;
+  border-radius: 5px !important;
+  box-shadow: 0 10px 30px 0 rgba(172, 168, 168, 0.43);
+  overflow: hidden;
+}
+
+@media (max-width: 422px) {
+  .order-card .card-body {
+    padding: 35px 24px;
+  }
+}
+
+.order-card .form-control::-webkit-input-placeholder {
+  color: #919aa3;
+}
+
+.order-card .form-control::-moz-placeholder {
+  color: #919aa3;
+}
+
+.order-card .form-control:-ms-input-placeholder {
+  color: #919aa3;
+}
+
+.order-card .form-control::-ms-input-placeholder {
+  color: #919aa3;
+}
+
+.order-card .form-control::placeholder {
+  color: #919aa3;
+}
+
+.order-card .btn-order {
+  background: #000;
+  border-radius: 5px;
+  border: 0px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  height: 50px;
+  transition: background 0.2s ease 0s, color 0.2s ease 0s;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.btn-order:disabled,
+.btn-order button[disabled] {
+  cursor: not-allowed;
+}
+
+.image-parent {
+  max-width: 40px;
+}
+
+.product-p {
+  margin-bottom: 0 !important;
+}
